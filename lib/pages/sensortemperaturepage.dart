@@ -206,7 +206,7 @@ class _sensorTemperaturepageState extends State<sensorTemperaturepage> {
             ],
           )
 
-    );
+      );
 
   }
 }
